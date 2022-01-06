@@ -8,7 +8,7 @@
        - [Full mode](#full)  
     2. Directions      
        - [Clock-Wise]
-       - [Anti Cloc-Wise]
+       - [Anti Clock-Wise]
     3. Speed      
        - [Slow]
        - [Intermediate]
