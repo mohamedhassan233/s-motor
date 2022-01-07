@@ -17,3 +17,6 @@ MOV CX, 0 ; step counter
 
 
 next_step: 
+
+MOV AL, [BX][SI] ; accessing the array by index
+OUT 7, AL ; update stepper motors's bins by the value at AL
