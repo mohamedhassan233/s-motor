@@ -16,4 +16,4 @@ MOV SI, 0
 MOV CX, 0 ; step counter
 
 
-
+next_step: 
