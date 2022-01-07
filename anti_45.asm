@@ -8,6 +8,9 @@
               	   DB 0000_0010B        
     
 
+.CODE
+.STARTUP
+
 
 
 
