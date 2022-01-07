@@ -27,3 +27,5 @@ JB next_step
 MOV SI,0
 CMP CX ,4     ; '4' for 45-degree rotation
 JB  next_step
+
+.EXIT
